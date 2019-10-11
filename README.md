@@ -11,7 +11,8 @@
 </h4>
 <p align="center">
     <a href="https://travis-ci.org/glmn/PUBGDiscoBot"><img src="https://api.travis-ci.org/glmn/PUBGDiscoBot.svg?branch=master"></a>
-    <a href="https://www.codacy.com/manual/glmn/PUBGDiscoBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=glmn/PUBGDiscoBot&amp;utm_campaign=Badge_Grade"><img src="https://img.shields.io/codacy/grade/bcdffee78eb24bf6bc3c3728bae19aee"></a>
+    <a href="https://www.codacy.com/manual/glmn/PUBGDiscoBot?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=glmn/PUBGDiscoBot&amp;utm_campaign=Badge_Grade"><img src="https://img.shields.io/codacy/grade/bcdffee78eb24bf6bc3c3728bae19aee"></a><a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fglmn%2FPUBGDiscoBot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglmn%2FPUBGDiscoBot.svg?type=shield"/></a>
+
     <img src="https://img.shields.io/github/last-commit/glmn/PUBGDiscoBot?style=flat">
     <img src="https://img.shields.io/static/v1?label=library&message=discord.py&color=brightgreen&style=flat">
     <img src="https://img.shields.io/static/v1?label=library&message=pubg_python&color=brightgreen&style=flat">
@@ -77,3 +78,6 @@ If your last game was TOP-3 then bot will show you stats immediately, otherwise 
 
 #### Patrons
 Thanks to all the backers and sponsors! Support this project by <a href="https://www.patreon.com/glmn">becoming a patron</a>.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fglmn%2FPUBGDiscoBot.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fglmn%2FPUBGDiscoBot?ref=badge_large)
